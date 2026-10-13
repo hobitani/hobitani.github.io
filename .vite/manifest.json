@@ -1,0 +1,229 @@
+{
+  "_FaqSection--hgRXchE.js": {
+    "file": "assets/FaqSection--hgRXchE.js",
+    "name": "FaqSection",
+    "imports": [
+      "_faq-BBCDvjDR.js",
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "_LegalPage-YGU6JkAa.js": {
+    "file": "assets/LegalPage-YGU6JkAa.js",
+    "name": "LegalPage",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_check-BOEa950v.js": {
+    "file": "assets/check-BOEa950v.js",
+    "name": "check",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_faq-BBCDvjDR.js": {
+    "file": "assets/faq-BBCDvjDR.js",
+    "name": "faq",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_photos-XNvQYXlE.js": {
+    "file": "assets/photos-XNvQYXlE.js",
+    "name": "photos"
+  },
+  "_react-dom-BkJ76Wik.js": {
+    "file": "assets/react-dom-BkJ76Wik.js",
+    "name": "react-dom"
+  },
+  "_scan-line-Dg7a6_A9.js": {
+    "file": "assets/scan-line-Dg7a6_A9.js",
+    "name": "scan-line",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_sun-DOiSpJ6t.js": {
+    "file": "assets/sun-DOiSpJ6t.js",
+    "name": "sun",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_thermometer-BEbyTDJs.js": {
+    "file": "assets/thermometer-BEbyTDJs.js",
+    "name": "thermometer",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-BMsNJ5Ic.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_react-dom-BkJ76Wik.js"
+    ],
+    "dynamicImports": [
+      "node_modules/react-dom/client.js",
+      "src/pages/Home.tsx",
+      "src/pages/Features.tsx",
+      "src/pages/HowItWorks.tsx",
+      "src/pages/Community.tsx",
+      "src/pages/Pricing.tsx",
+      "src/pages/Faq.tsx",
+      "src/pages/Terms.tsx",
+      "src/pages/Privacy.tsx",
+      "src/pages/Credits.tsx",
+      "src/pages/NotFound.tsx"
+    ],
+    "css": [
+      "assets/app-DnaWocK9.css"
+    ],
+    "assets": [
+      "assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+      "assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+    ]
+  },
+  "node_modules/@fontsource-variable/google-sans/files/google-sans-latin-opsz-normal.woff2": {
+    "file": "assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "src": "node_modules/@fontsource-variable/google-sans/files/google-sans-latin-opsz-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/plus-jakarta-sans/files/plus-jakarta-sans-latin-wght-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+    "src": "node_modules/@fontsource-variable/plus-jakarta-sans/files/plus-jakarta-sans-latin-wght-normal.woff2"
+  },
+  "node_modules/react-dom/client.js": {
+    "file": "assets/client-DDjVdvQR.js",
+    "name": "client",
+    "src": "node_modules/react-dom/client.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-dom-BkJ76Wik.js"
+    ]
+  },
+  "src/pages/Community.tsx": {
+    "file": "assets/Community-BPK8ziw6.js",
+    "name": "Community",
+    "src": "src/pages/Community.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_FaqSection--hgRXchE.js",
+      "_faq-BBCDvjDR.js",
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/Credits.tsx": {
+    "file": "assets/Credits-C-sYW0ZA.js",
+    "name": "Credits",
+    "src": "src/pages/Credits.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/Faq.tsx": {
+    "file": "assets/Faq-G6D9YMV1.js",
+    "name": "Faq",
+    "src": "src/pages/Faq.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_faq-BBCDvjDR.js",
+      "index.html"
+    ]
+  },
+  "src/pages/Features.tsx": {
+    "file": "assets/Features-DTGiKXbu.js",
+    "name": "Features",
+    "src": "src/pages/Features.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_FaqSection--hgRXchE.js",
+      "_check-BOEa950v.js",
+      "_scan-line-Dg7a6_A9.js",
+      "_faq-BBCDvjDR.js",
+      "_thermometer-BEbyTDJs.js",
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/Home.tsx": {
+    "file": "assets/Home--lhlLLqo.js",
+    "name": "Home",
+    "src": "src/pages/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-dom-BkJ76Wik.js",
+      "_FaqSection--hgRXchE.js",
+      "_check-BOEa950v.js",
+      "_scan-line-Dg7a6_A9.js",
+      "_sun-DOiSpJ6t.js",
+      "_faq-BBCDvjDR.js",
+      "_thermometer-BEbyTDJs.js",
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/HowItWorks.tsx": {
+    "file": "assets/HowItWorks-B3635RwK.js",
+    "name": "HowItWorks",
+    "src": "src/pages/HowItWorks.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_FaqSection--hgRXchE.js",
+      "_check-BOEa950v.js",
+      "_sun-DOiSpJ6t.js",
+      "_faq-BBCDvjDR.js",
+      "_thermometer-BEbyTDJs.js",
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/NotFound.tsx": {
+    "file": "assets/NotFound-mO9fzHiQ.js",
+    "name": "NotFound",
+    "src": "src/pages/NotFound.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_photos-XNvQYXlE.js"
+    ]
+  },
+  "src/pages/Pricing.tsx": {
+    "file": "assets/Pricing-Ce8OqA2X.js",
+    "name": "Pricing",
+    "src": "src/pages/Pricing.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-dom-BkJ76Wik.js",
+      "_FaqSection--hgRXchE.js",
+      "_check-BOEa950v.js",
+      "_faq-BBCDvjDR.js",
+      "index.html"
+    ]
+  },
+  "src/pages/Privacy.tsx": {
+    "file": "assets/Privacy-CHk1IhgR.js",
+    "name": "Privacy",
+    "src": "src/pages/Privacy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_LegalPage-YGU6JkAa.js"
+    ]
+  },
+  "src/pages/Terms.tsx": {
+    "file": "assets/Terms-BhWerrBC.js",
+    "name": "Terms",
+    "src": "src/pages/Terms.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_LegalPage-YGU6JkAa.js"
+    ]
+  }
+}

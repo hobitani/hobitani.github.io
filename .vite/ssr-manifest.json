@@ -1,0 +1,375 @@
+{
+  "\u0000rolldown/runtime.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "\u0000vite/preload-helper.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "index.html": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/@remix-run/router/dist/router.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/invariant/browser.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/Icon.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/context.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/createLucideIcon.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/arrow-right.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/arrow-up-right.mjs": [
+    "/assets/FaqSection--hgRXchE.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/badge-check.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/book-open.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/calendar-clock.mjs": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/calendar-days.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/camera.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/check.mjs": [
+    "/assets/check-BOEa950v.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/circle-question-mark.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/cloud-rain.mjs": [
+    "/assets/HowItWorks-B3635RwK.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/cloud-sun.mjs": [
+    "/assets/scan-line-Dg7a6_A9.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/compass.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/credit-card.mjs": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/droplet.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/droplets.mjs": [
+    "/assets/Home--lhlLLqo.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/eye-off.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/flame.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/gauge.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/image-off.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/leaf.mjs": [
+    "/assets/sun-DOiSpJ6t.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/list-checks.mjs": [
+    "/assets/HowItWorks-B3635RwK.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/map-pin.mjs": [
+    "/assets/HowItWorks-B3635RwK.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/map-pinned.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/menu.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/message-square-text.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/minus.mjs": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/package.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/plus.mjs": [
+    "/assets/faq-BBCDvjDR.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/qr-code.mjs": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/rotate-ccw.mjs": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/scan-line.mjs": [
+    "/assets/scan-line-Dg7a6_A9.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/shield-check.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/sprout.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/star.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/store.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/sun-medium.mjs": [
+    "/assets/Home--lhlLLqo.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/sun.mjs": [
+    "/assets/sun-DOiSpJ6t.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/thermometer.mjs": [
+    "/assets/thermometer-BEbyTDJs.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/trophy.mjs": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/user-check.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/users.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/wallet.mjs": [
+    "/assets/Home--lhlLLqo.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/wheat.mjs": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/x.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/build/buildLucideIconForReact.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/build/buildLucideIconNode.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/build/defaultAttributes.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/hasA11yProp.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/mergeClasses.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/toCamelCase.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/toKebabCase.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/toLucideIconData.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils/toPascalCase.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/prop-types/factoryWithThrowingShims.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/prop-types/index.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react-dom/cjs/react-dom.production.min.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/react-dom/client.js": [
+    "/assets/client-DDjVdvQR.js"
+  ],
+  "node_modules/react-dom/index.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/react-fast-compare/index.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react-helmet-async/lib/index.module.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react-router-dom/dist/index.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react-router/dist/index.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/react/cjs/react.production.min.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/react/index.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/react/jsx-runtime.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/scheduler/cjs/scheduler.production.min.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/scheduler/index.js": [
+    "/assets/react-dom-BkJ76Wik.js"
+  ],
+  "node_modules/shallowequal/index.js": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/vite-react-ssg/dist/index.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.BhGKpaqQ.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C1RTs5UA.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.CoMLbIiW.mjs": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/components/AppPreview.tsx": [
+    "/assets/Home--lhlLLqo.js"
+  ],
+  "src/components/ClosingCta.tsx": [
+    "/assets/FaqSection--hgRXchE.js"
+  ],
+  "src/components/FaqList.tsx": [
+    "/assets/faq-BBCDvjDR.js"
+  ],
+  "src/components/FaqSection.tsx": [
+    "/assets/FaqSection--hgRXchE.js"
+  ],
+  "src/components/Footer.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/components/GrowIllustration.tsx": [
+    "/assets/HowItWorks-B3635RwK.js"
+  ],
+  "src/components/Header.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/components/Layout.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/components/LegalPage.tsx": [
+    "/assets/LegalPage-YGU6JkAa.js"
+  ],
+  "src/components/ui.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/content/faq.ts": [
+    "/assets/faq-BBCDvjDR.js"
+  ],
+  "src/content/photos.ts": [
+    "/assets/photos-XNvQYXlE.js"
+  ],
+  "src/fonts.css": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/index.css": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/main.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/pages/Community.tsx": [
+    "/assets/Community-BPK8ziw6.js"
+  ],
+  "src/pages/Credits.tsx": [
+    "/assets/Credits-C-sYW0ZA.js"
+  ],
+  "src/pages/Faq.tsx": [
+    "/assets/Faq-G6D9YMV1.js"
+  ],
+  "src/pages/Features.tsx": [
+    "/assets/Features-DTGiKXbu.js"
+  ],
+  "src/pages/Home.tsx": [
+    "/assets/Home--lhlLLqo.js"
+  ],
+  "src/pages/HowItWorks.tsx": [
+    "/assets/HowItWorks-B3635RwK.js"
+  ],
+  "src/pages/NotFound.tsx": [
+    "/assets/NotFound-mO9fzHiQ.js"
+  ],
+  "src/pages/Pricing.tsx": [
+    "/assets/Pricing-Ce8OqA2X.js"
+  ],
+  "src/pages/Privacy.tsx": [
+    "/assets/Privacy-CHk1IhgR.js"
+  ],
+  "src/pages/Terms.tsx": [
+    "/assets/Terms-BhWerrBC.js"
+  ],
+  "src/routes.tsx": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ],
+  "src/site.ts": [
+    "/assets/google-sans-latin-opsz-normal-JCxa0xDi.woff2",
+    "/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2"
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hobitani.github.io/sitemap.xml
