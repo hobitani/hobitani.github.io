@@ -1,0 +1,7 @@
+# Akhir baris di repo selalu LF, apa pun pengaturan Git-nya (Windows
+# core.autocrlf=true, WSL/Linux tanpa autocrlf). Working tree Windows tetap
+# boleh CRLF; Git mengonversi otomatis. File biner dideteksi otomatis.
+* text=auto
+
+# Skrip shell dijalankan di Git Bash/WSL → LF juga di working tree.
+*.sh text eol=lf
